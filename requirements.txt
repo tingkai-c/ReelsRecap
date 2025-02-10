@@ -4,3 +4,4 @@ requests
 google-generativeai
 moviepy
 Pillow
+waitress
